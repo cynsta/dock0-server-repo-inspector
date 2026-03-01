@@ -1,0 +1,14 @@
+{
+  "name": "@dock0-labs/server-repo-inspector",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP server for public GitHub repository inspection.",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
